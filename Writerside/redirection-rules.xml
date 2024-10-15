@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="5b10f732">
+        <description>Created after removal of "dos" from Glossary</description>
+        <accepts>dos.html</accepts>
+    </rule>
+    <rule id="17edc82">
+        <description>Created after removal of "About Glossary" from Glossary</description>
+        <accepts>starter-topic.html</accepts>
+    </rule>
+    <rule id="6a13cb8c">
+        <description>Created after removal of "Introduction" from Glossary</description>
+        <accepts>Introduction.html</accepts>
+    </rule>
+</rules>
