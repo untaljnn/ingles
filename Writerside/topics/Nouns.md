@@ -5,6 +5,8 @@
 A noun is a word that represents a person, place, thing, or idea. Nouns are the subject of a sentence. They can be
 singular or plural, and they can be common or proper.
 
+## Examples
+
 <deflist>
 <def title="Weather">
     The condition of the air outside, like sunny, rainy, or windy.

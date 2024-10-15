@@ -6,6 +6,8 @@ An adjective is a word that describes or modifies a noun or pronoun. Adjectives 
 about the noun or pronoun in a sentence. They can describe the size, color, shape, or other qualities of the noun or
 pronoun.
 
+## Examples
+
 <deflist>
 <def title="Happy">
     Feeling or showing pleasure or contentment.

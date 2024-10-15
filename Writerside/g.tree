@@ -11,5 +11,7 @@
         </toc-element>
         <toc-element topic="Verbs.md"/>
         <toc-element topic="Adjectives.md"/>
+        <toc-element topic="Adverbs.md"/>
+        <toc-element topic="Prepositions.md"/>
     </toc-element>
 </instance-profile>

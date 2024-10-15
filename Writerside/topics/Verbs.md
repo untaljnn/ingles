@@ -5,6 +5,8 @@
 A verb is a word that describes an action or a state of being. Verbs are the predicate of a sentence. They can be
 singular or plural, and they can be in the past, present, or future tense.
 
+## Examples
+
 <deflist>
 <def title="Explore">
     To travel through a place to learn about it.
