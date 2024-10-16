@@ -1,5 +1,7 @@
 # Verbs
 
+<show-structure for="chapter,def" depth="2"/>
+
 ## What is a verb?
 
 A verb is a word that describes an action or a state of being. Verbs are the predicate of a sentence. They can be

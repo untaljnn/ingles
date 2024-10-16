@@ -1,5 +1,7 @@
 # Nouns
 
+<show-structure for="chapter,def" depth="2"/>
+
 ## What is a noun?
 
 A noun is a word that represents a person, place, thing, or idea. Nouns are the subject of a sentence. They can be
@@ -7,8 +9,8 @@ singular or plural, and they can be common or proper.
 
 ## Examples
 
-<deflist>
-<def title="Weather">
+<deflist id="examples-list">
+<def id="1" title="Weather">
     The condition of the air outside, like sunny, rainy, or windy.
     <procedure title="Examples" collapsible="true">  
         <step>  
@@ -139,18 +141,19 @@ singular or plural, and they can be common or proper.
         </step>  
     </procedure>
 </def>
-
-<def title="City">
-    A large place where many people live.
+<def title="Downtown">
+    The central part of a place.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            The city has many shops and restaurants.  
+            We went to the downtown for dinner.  
         </step>  
         <step>  
-            They visited the city for a fun day out.  
+            The downtown is very busy on weekdays.  
         </step>  
     </procedure>
+<note>It's important to study this well before an exam</note>
 </def>
+
 
 <def title="School">
     A place where people learn.

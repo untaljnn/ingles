@@ -1,5 +1,7 @@
 # Adjectives
 
+<show-structure for="chapter,def" depth="2"/>
+
 ## What is an Adjective?
 
 An adjective is a word that describes or modifies a noun or pronoun. Adjectives can be used to provide more information
