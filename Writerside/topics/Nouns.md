@@ -252,6 +252,66 @@ singular or plural, and they can be common or proper.
     </procedure>
 </def>
 
+<def title="Hollow">
+    An empty space inside something.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            The tree trunk had a hollow inside.  
+        </step>  
+        <step>  
+            The bird built a nest in the hollow of the tree.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Fortune">
+    A large amount of money or good luck.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            She made a fortune from her business.  
+        </step>  
+        <step>  
+            Winning the lottery brought him great fortune.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Pebble">
+    A small stone.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            She picked up a pebble from the beach.  
+        </step>  
+        <step>  
+            The path was covered with pebbles.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Chill">
+    A feeling of coldness.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            There was a chill in the air last night.  
+        </step>  
+        <step>  
+            The cold wind sent a chill down my spine.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Realm">
+    A kingdom or a field of interest or activity.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            The king ruled over a vast realm.  
+        </step>  
+        <step>  
+            In the realm of science, there are many mysteries.  
+        </step>  
+    </procedure>
+</def>
+
 </deflist>
 
 

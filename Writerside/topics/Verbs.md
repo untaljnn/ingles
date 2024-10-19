@@ -70,7 +70,7 @@ singular or plural, and they can be in the past, present, or future tense.
     </procedure>
 <tip>
     <p>
-       <emphasis> Glimpse</emphasis> can be a noun and a verb.
+       <emphasis> Glimpse</emphasis> can be use as a noun and a verb.
     </p>
 </tip>
 </def>
