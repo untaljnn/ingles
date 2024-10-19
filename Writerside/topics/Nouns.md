@@ -10,137 +10,199 @@ singular or plural, and they can be common or proper.
 ## Examples
 
 <deflist id="examples-list">
-<def id="1" title="Weather">
-    The condition of the air outside, like sunny, rainy, or windy.
+
+<def title="Echo">
+    A sound that bounces back from a surface.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            The weather was sunny during their trip to the park.  
+            We heard the echo in the cave.  
         </step>  
         <step>  
-            They checked the weather before their adventure in the mountains.  
+            His voice created an echo.  
         </step>  
     </procedure>
 </def>
 
-<def title="Adventure">
-    An exciting experience where you try something new.
+<def title="Bliss">
+    A feeling of happiness.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            Going to the jungle was a fun adventure.  
+            The quiet beach was pure bliss.  
         </step>  
         <step>  
-            They planned an adventure trip to the mountains.  
+            She felt bliss after the long hike.  
         </step>  
     </procedure>
 </def>
 
-<def title="Jungle">
-    A wild place with many trees and animals.
+<def title="Murmur">
+    A soft sound made by people or things.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            The jungle was filled with colorful birds.  
+            I could hear a murmur in the crowd.  
         </step>  
         <step>  
-            They explored the jungle and saw monkeys.  
+            The wind made a soft murmur through the trees.  
         </step>  
     </procedure>
 </def>
 
-<def title="Trip">
-    A visit to a place.
+<def title="Glimpse">
+    A quick look at something.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            They took a trip to the beach for a week.  
+            I caught a glimpse of the sunset.  
         </step>  
         <step>  
-            The trip to the zoo was exciting.  
+            She gave me a glimpse of her drawing.  
         </step>  
     </procedure>
 </def>
 
-<def title="Mountain">
-    A very high piece of land.
+<def title="Riddle">
+    A tricky question or puzzle.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            Climbing the mountain was hard but fun.  
+            He asked a riddle that no one could answer.  
         </step>  
         <step>  
-            The mountain had a beautiful view at the top.  
+            The kids love to solve riddles.  
         </step>  
     </procedure>
 </def>
 
-<def title="Beach">
-    A sandy area next to the sea.
+<def title="Peril">
+    Danger.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            They played in the sand at the beach.  
+            The climbers were in great peril on the mountain.  
         </step>  
         <step>  
-            The beach was perfect for swimming.  
+            They faced peril when crossing the river.  
         </step>  
     </procedure>
 </def>
 
-<def title="Friend">
-    A person you like and have fun with.
+<def title="Glee">
+    Great joy.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            My friend came over to play games.  
+            The children shouted in glee when the ice cream arrived.  
         </step>  
         <step>  
-            We went on a trip together with my best friend.  
+            She smiled with glee after winning the race.  
         </step>  
     </procedure>
 </def>
 
-<def title="Book">
-    A lot of pages with stories or information.
+<def title="Feast">
+    A large meal with lots of food.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            I read an exciting book about a treasure hunt.  
+            They had a big feast for the holiday.  
         </step>  
         <step>  
-            The book has many stories about adventures.  
+            We enjoyed the feast at the festival.  
         </step>  
     </procedure>
 </def>
 
-<def title="Game">
-    An activity you play for fun.
+<def title="Quest">
+    A long search for something.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            We played a board game with our family.  
+            The knight went on a quest for the treasure.  
         </step>  
         <step>  
-            The game was about exploring a jungle.  
+            Her quest for knowledge never ends.  
         </step>  
     </procedure>
 </def>
 
-<def title="Food">
-    Things we eat to stay alive.
+<def title="Whisper">
+    A very quiet voice or sound.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            They tried new food during their trip.  
+            She spoke in a whisper so no one could hear.  
         </step>  
         <step>  
-            The food at the beach restaurant was delicious.  
+            The wind was like a soft whisper in the night.  
         </step>  
     </procedure>
 </def>
 
-<def title="Music">
-    Sounds that are nice to listen.
+<def title="Burden">
+    Something really difficult.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            We listened to music while driving to the mountains.  
+            The heavy bag was a real burden.  
         </step>  
         <step>  
-            The jungle was alive with the sounds of music.  
+            He felt the burden of making the big decision.  
         </step>  
     </procedure>
 </def>
+
+<def title="Fury">
+    Extreme anger.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            His face showed his fury during the argument.  
+        </step>  
+        <step>  
+            The storm hit the town with great fury.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Harmony">
+    A sense of peace.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            The choir sang in perfect harmony.  
+        </step>  
+        <step>  
+            The colors of the painting were in harmony.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Wound">
+    An injury.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            He had a deep wound on his arm.  
+        </step>  
+        <step>  
+            The doctor cleaned the wound carefully.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Revenge">
+    The act of doing something to someone because they did something to you first.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            He wanted revenge after losing the game.  
+        </step>  
+        <step>  
+            The villain plotted his revenge.  
+        </step>  
+    </procedure>
+</def>
+
+<def title="Odor">
+    A bad smell.
+    <procedure title="Examples" collapsible="true">  
+        <step>  
+            The kitchen had a strange odor.  
+        </step>  
+        <step>  
+            The flowers gave off a sweet odor.  
+        </step>  
+    </procedure>
+</def>
+
 <def title="Downtown">
     The central part of a place.
     <procedure title="Examples" collapsible="true">  
@@ -154,159 +216,38 @@ singular or plural, and they can be common or proper.
 <note>It's important to study this well before an exam</note>
 </def>
 
-
-<def title="School">
-    A place where people learn.
+<def title="Tide">
+    The rise and fall of the sea.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            The school trip to the museum was interesting.  
+            The tide was low in the morning.  
         </step>  
         <step>  
-            They learned about animals in the jungle at school.  
+            The boat moves with the tide.  
         </step>  
     </procedure>
 </def>
 
-<def title="Pet">
-    An animal that lives with you.
+<def title="Fragile">
+    Something that can break easily.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            My pet dog loves to go for walks.  
+            Be careful with that fragile vase.  
         </step>  
         <step>  
-            They took their pet cat to the vet.  
+            The glass was too fragile for the trip.  
         </step>  
     </procedure>
 </def>
 
-<def title="Festival">
-    A special time when people celebrate.
+<def title="Shelter">
+    A place to stay safe from danger or bad weather.
     <procedure title="Examples" collapsible="true">  
         <step>  
-            The festival was full of fun games and music.  
+            We found shelter from the rain.  
         </step>  
         <step>  
-            They enjoyed the festival by the beach.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Movie">
-    A film you watch for entertainment.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They saw an adventure movie at the cinema.  
-        </step>  
-        <step>  
-            The movie was set in a magical jungle.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Park">
-    A green space where people can relax.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They had a picnic in the park on Saturday.  
-        </step>  
-        <step>  
-            The park had many paths for walking and biking.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Holiday">
-    A special day when you don’t work or go to school.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They spent their holiday at the beach.  
-        </step>  
-        <step>  
-            The holiday was a great time for family fun.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Ticket">
-    A piece of paper you need to enter a place.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They bought a ticket to the amusement park.  
-        </step>  
-        <step>  
-            The ticket for the concert was very expensive.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Map">
-    A drawing that shows places and directions.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They used a map to find their way to the park.  
-        </step>  
-        <step>  
-            The map showed the best routes for their trip.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="River">
-    A large flow of water.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They swam in the river on a hot day.  
-        </step>  
-        <step>  
-            The river was beautiful and calm.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Photo">
-    A picture taken with a camera.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They took a photo at the beach to remember the trip.  
-        </step>  
-        <step>  
-            The photo of the jungle was amazing.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Story">
-    A tale that is told or written.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            He told a funny story about his trip to the mountains.  
-        </step>  
-        <step>  
-            The story of their jungle adventure was exciting.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Ride">
-    A trip on a vehicle.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They enjoyed a ride on the Ferris wheel.  
-        </step>  
-        <step>  
-            The ride through the jungle was thrilling.  
-        </step>  
-    </procedure>
-</def>
-
-<def title="Lesson">
-    A time when you learn something new.
-    <procedure title="Examples" collapsible="true">  
-        <step>  
-            They had a lesson about animals in class.  
-        </step>  
-        <step>  
-            The lesson included stories about adventures.  
+            The animals looked for shelter during the storm.  
         </step>  
     </procedure>
 </def>

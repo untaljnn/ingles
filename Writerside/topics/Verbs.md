@@ -68,6 +68,11 @@ singular or plural, and they can be in the past, present, or future tense.
             They glimpsed the mountains as they drove by.  
         </step>  
     </procedure>
+<tip>
+    <p>
+       <emphasis> Glimpse</emphasis> can be a noun and a verb.
+    </p>
+</tip>
 </def>
 
 <def title="Marvel">
